@@ -377,7 +377,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EdIP4RFXkh0wQXRce5Or-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="迎春&lt;br&gt;二小姐" vertex="1">
-          <mxGeometry height="60" width="120" x="1270" y="470" as="geometry" />
+          <mxGeometry height="60" width="120" x="1300" y="470" as="geometry" />
         </mxCell>
         <mxCell id="EdIP4RFXkh0wQXRce5Or-73" edge="1" parent="1" source="EdIP4RFXkh0wQXRce5Or-72" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -414,7 +414,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EdIP4RFXkh0wQXRce5Or-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="贾敏" vertex="1">
-          <mxGeometry height="60" width="120" x="1130" y="345" as="geometry" />
+          <mxGeometry height="60" width="120" x="1040" y="345" as="geometry" />
         </mxCell>
         <mxCell id="EdIP4RFXkh0wQXRce5Or-81" edge="1" parent="1" source="EdIP4RFXkh0wQXRce5Or-80" style="endArrow=none;html=1;rounded=0;" target="EdIP4RFXkh0wQXRce5Or-52" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -441,7 +441,7 @@
           <mxGeometry height="60" width="120" x="810" y="345" as="geometry" />
         </mxCell>
         <mxCell id="EdIP4RFXkh0wQXRce5Or-86" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="林黛玉" vertex="1">
-          <mxGeometry height="60" width="120" x="970" y="475" as="geometry" />
+          <mxGeometry height="60" width="120" x="820" y="480" as="geometry" />
         </mxCell>
         <mxCell id="EdIP4RFXkh0wQXRce5Or-87" edge="1" parent="1" source="EdIP4RFXkh0wQXRce5Or-82" style="endArrow=none;html=1;rounded=0;exitX=0.59;exitY=0.868;exitDx=0;exitDy=0;exitPerimeter=0;" target="EdIP4RFXkh0wQXRce5Or-86" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -457,6 +457,48 @@
         </mxCell>
         <mxCell id="EdIP4RFXkh0wQXRce5Or-95" connectable="0" parent="EdIP4RFXkh0wQXRce5Or-94" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="师生" vertex="1">
           <mxGeometry relative="1" x="0.0118" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdIP4RFXkh0wQXRce5Or-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="贾琏" vertex="1">
+          <mxGeometry height="60" width="120" x="1060" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="EdIP4RFXkh0wQXRce5Or-97" edge="1" parent="1" source="EdIP4RFXkh0wQXRce5Or-96" style="endArrow=none;html=1;rounded=0;" target="EdIP4RFXkh0wQXRce5Or-37" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1640" y="670" as="sourcePoint" />
+            <mxPoint x="1640" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdIP4RFXkh0wQXRce5Or-98" connectable="0" parent="EdIP4RFXkh0wQXRce5Or-97" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="长子" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdIP4RFXkh0wQXRce5Or-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="王熙凤" vertex="1">
+          <mxGeometry height="60" width="120" x="900" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="EdIP4RFXkh0wQXRce5Or-100" edge="1" parent="1" source="EdIP4RFXkh0wQXRce5Or-96" style="endArrow=none;html=1;rounded=0;" target="EdIP4RFXkh0wQXRce5Or-99" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1670" y="623" as="sourcePoint" />
+            <mxPoint x="1900" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdIP4RFXkh0wQXRce5Or-101" connectable="0" parent="EdIP4RFXkh0wQXRce5Or-100" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="夫妻" vertex="1">
+          <mxGeometry relative="1" x="-0.0676" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdIP4RFXkh0wQXRce5Or-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="贾?" vertex="1">
+          <mxGeometry height="30" width="60" x="1210" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="EdIP4RFXkh0wQXRce5Or-103" edge="1" parent="1" source="EdIP4RFXkh0wQXRce5Or-102" style="endArrow=none;html=1;rounded=0;" target="EdIP4RFXkh0wQXRce5Or-37" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1467" y="395" as="sourcePoint" />
+            <mxPoint x="1430" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdIP4RFXkh0wQXRce5Or-104" connectable="0" parent="EdIP4RFXkh0wQXRce5Or-103" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="次子" vertex="1">
+          <mxGeometry relative="1" x="-0.0624" y="-3" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
